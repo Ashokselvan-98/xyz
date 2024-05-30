@@ -1,0 +1,24 @@
+2024-05-22 16:27:28: User Ashok logged in at 2024-05-22T16:27:28.818740600
+2024-05-22 16:39:01: Ashok is entering -- getMsg at 2024-05-22T16:39:01.919416500
+2024-05-22 16:39:01: Ashok is exiting -- getMsg at 2024-05-22T16:39:01.922479300
+2024-05-22 16:39:10: Ashok is entering -- findproduct at 2024-05-22T16:39:10.240727
+2024-05-22 16:39:10: Ashok is exiting -- findproduct at 2024-05-22T16:39:10.242735
+2024-05-22 16:39:13: Ashok is entering -- addvalue at 2024-05-22T16:39:13.862162400
+2024-05-22 16:39:13: Ashok is exiting -- addvalue at 2024-05-22T16:39:13.865340100
+2024-05-22 16:45:33: Ashok is entering -- getMsg at 2024-05-22T16:45:33.862381900
+2024-05-22 16:45:33: Ashok is exiting -- getMsg at 2024-05-22T16:45:33.879186800
+2024-05-22 16:52:05: Ashok is entering -- logout at 2024-05-22T16:52:05.472475
+2024-05-22 16:52:05: User Ashok logged out at 2024-05-22T16:52:05.480452300
+2024-05-22 16:52:05: Ashok is exiting -- logout at 2024-05-22T16:52:05.484449600
+2024-05-22 16:55:35: User nisha logged in at 2024-05-22T16:55:35.475485900
+2024-05-22 16:56:03: nisha is entering -- findproduct at 2024-05-22T16:56:03.622323600
+2024-05-22 16:56:03: nisha is exiting -- findproduct at 2024-05-22T16:56:03.628192700
+2024-05-22 17:25:48: User shalini logged in at 2024-05-22T17:25:48.427853900
+2024-05-22 17:26:33: shalini is entering -- findproduct at 2024-05-22T17:26:33.680537600
+2024-05-22 17:26:33: shalini is exiting -- findproduct at 2024-05-22T17:26:33.687327200
+2024-05-22 17:27:46: shalini is entering -- findproduct at 2024-05-22T17:27:46.481241900
+2024-05-22 17:27:46: shalini is exiting -- findproduct at 2024-05-22T17:27:46.492216800
+2024-05-22 17:32:07: shalini is entering -- findproduct at 2024-05-22T17:32:07.696843600
+2024-05-22 17:32:07: shalini is exiting -- findproduct at 2024-05-22T17:32:07.700829600
+2024-05-22 17:32:49: shalini is entering >>>findproduct at 2024-05-22T17:32:49.874417600
+2024-05-22 17:32:49: shalini is exiting >> findproduct at 2024-05-22T17:32:49.888422400

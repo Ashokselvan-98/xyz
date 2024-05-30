@@ -1,0 +1,64 @@
+2024-05-24 15:24:21: User Ashok logged in at 2024-05-24T15:24:21.617687100
+2024-05-24 15:24:52: Ashok is entering >>> findProduct at 2024-05-24T15:24:52.137926700
+2024-05-24 15:24:52: Ashok logged in at 2024-05-24T15:24:21.617687100, exiting >>> findProduct at 2024-05-24T15:24:52.137926700, session duration: 30520 ms
+2024-05-24 15:24:57: Ashok is entering >>> addValue at 2024-05-24T15:24:57.295126200
+2024-05-24 15:24:57: Ashok logged in at 2024-05-24T15:24:21.617687100, exiting >>> addValue at 2024-05-24T15:24:57.295126200, session duration: 35677 ms
+2024-05-24 15:35:43: User Ashok logged in at 2024-05-24 15:35:43
+2024-05-24 15:36:26: Ashok is entering >>> getMsg at 2024-05-24 15:36:26
+2024-05-24 15:36:26: Ashok logged in at 2024-05-24 15:35:43, exiting >>> getMsg at 2024-05-24 15:36:26, session duration: 43316 ms
+2024-05-24 15:36:32: Ashok is entering >>> findProduct at 2024-05-24 15:36:32
+2024-05-24 15:36:32: Ashok logged in at 2024-05-24 15:35:43, exiting >>> findProduct at 2024-05-24 15:36:32, session duration: 49180 ms
+2024-05-24 15:36:42: Ashok is entering >>> findProduct at 2024-05-24 15:36:42
+2024-05-24 15:36:42: Ashok logged in at 2024-05-24 15:35:43, exiting >>> findProduct at 2024-05-24 15:36:42, session duration: 59749 ms
+2024-05-24 15:43:30: User Ashok logged in at 2024-05-24 15:43:30
+2024-05-24 15:50:18: Ashok logged in at findProduct2024-05-24 15:43:30, exiting >>> findProduct at 2024-05-24 15:50:18, session duration: 407224 ms
+2024-05-24 15:56:27: User Ashok logged in at 2024-05-24 15:56:27
+2024-05-24 15:56:53: Ashok logged in at findProduct2024-05-24 15:56:27, exiting >>> findProduct at 2024-05-24 15:56:53, session duration: 26100 ms
+2024-05-24 16:05:58: Ashok is entering >>>findProduct at 2024-05-24T16:05:58.545904400
+2024-05-24 16:05:58: Ashok is exiting >> findProduct at 2024-05-24T16:05:58.553902900
+2024-05-24 16:07:31: Ashok is entering >>>findProduct at 2024-05-24T16:07:30.99746890030ms
+2024-05-24 16:07:31: Ashok is exiting >> findProduct at 2024-05-24T16:07:31.008606900
+2024-05-24 16:09:09: Ashok is entering >>>findProduct at 2024-05-24T16:09:09.127619600
+2024-05-24 16:09:09: Ashok is exiting >> findProduct at 2024-05-24T16:09:09.172906
+2024-05-24 16:25:49: Ashok is entering >>>findProduct at 2024-05-24 10:55:49.719
+2024-05-24 16:25:49: Ashok is exiting >> findProduct at 2024-05-24 10:55:49.729
+2024-05-24 16:29:26: User Ashok logged in at 2024-05-24T16:29:26.861091
+2024-05-24 16:29:56: Ashok is entering >>>addValue at 2024-05-24 10:59:56.959
+2024-05-24 16:29:56: Ashok is exiting >> addValue at 2024-05-24 10:59:56.962
+2024-05-24 16:31:59: Ashok is entering >>>addValue at 2024-05-24 11:01:59.182
+2024-05-24 16:31:59: Ashok is exiting >> addValue at 2024-05-24 11:01:59.193
+2024-05-24 16:34:36: Ashok is entering >>>addValue at 2024-05-24 11:04:36.285
+2024-05-24 16:34:36: Ashok is exiting >> addValue at 2024-05-24 11:04:36.288
+2024-05-24 16:37:29: Ashok is entering >>>addValue at 2024-05-24 11:07:29.561
+2024-05-24 16:37:29: Ashok is exiting >> addValue at 2024-05-24 11:07:29.573
+2024-05-24 16:41:52: Ashok logged in at addValue, entering >>> addValue at 2024-05-24 11:11:52
+2024-05-24 16:41:52: Ashok is exiting >> addValue at 2024-05-24 11:11:52
+2024-05-24 16:54:35: Ashok logged in at addValue, entering >>> addValue at 2024-05-24 11:24:35
+2024-05-24 16:54:35: Ashok is exiting >> addValue at 2024-05-24 11:24:35
+2024-05-24 17:14:07: Ashokentering >>findProduct Ashok is exiting >> findProduct at 2024-05-24 11:44:07 Time taken: 2024-05-24T11:44:07.891632200Z ms
+2024-05-24 17:19:54: Ashok entering >>findProduct Ashok is exiting >> findProduct at 2024-05-24 11:49:54 Time taken: 5 ms
+2024-05-24 17:21:30: Ashok entering >>findProduct Ashok is exiting >> findProduct at 2024-05-24 11:51:30 Time taken: 1 ms
+2024-05-24 17:21:48: Ashok entering >>findProduct Ashok is exiting >> findProduct at 2024-05-24 11:51:48 Session Time: 4 ms
+2024-05-24 17:46:20: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:16:20 Session Time: 8 ms
+2024-05-24 17:46:25: Ashok entering >>getMsg Ashok is exiting >> getMsg at 2024-05-24 12:16:25 Session Time: 0 ms
+2024-05-24 17:46:36: Ashok entering >>getMsg Ashok is exiting >> getMsg at 2024-05-24 12:16:36 Session Time: 0 ms
+2024-05-24 17:46:49: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:16:49 Session Time: 0 ms
+2024-05-24 17:50:42: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:20:42 Session Time: 4 ms
+2024-05-24 17:51:44: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:21:44 Session Time: 3 ms
+2024-05-24 17:52:56: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:22:56 Session Time: 0 ms
+2024-05-24 17:54:44: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:24:44 Session Time: 4 ms
+2024-05-24 17:58:19: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:28:19 Session Time: 0 ms
+2024-05-24 17:59:38: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:29:38 Session Time: 5 ms
+2024-05-24 17:59:54: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:29:54 Session Time: 0 ms
+2024-05-24 18:05:37: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:35:37 Session Time: 3 ms
+2024-05-24 18:06:04: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:36:04 Session Time: 5 ms
+2024-05-24 18:06:39: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:36:39 Session Time: 6 ms
+2024-05-24 18:06:46: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:36:46 Session Time: 0 ms
+2024-05-24 18:10:19: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:40:19 Session Time: 7 ms
+2024-05-24 18:10:30: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:40:30 Session Time: 0 ms
+2024-05-24 18:11:27: Ashok entering >>addValue Ashok is exiting >> addValue at 2024-05-24 12:41:27 Session Time: 1 ms
+2024-05-24 18:29:24: Ashok entering >> getResponse 2024-05-24 12:59:24.460Ashok is exiting >> getResponse at 2024-05-24 12:59:24.460 Session Time: 8 ms
+2024-05-24 18:29:52: Ashok entering >> getMsg 2024-05-24 12:59:52.781Ashok is exiting >> getMsg at 2024-05-24 12:59:52.781 Session Time: 0 ms
+2024-05-24 18:31:18: Ashok entering >> getMsg 2024-05-24 13:01:18.350Ashok is exiting >> getMsg at 2024-05-24 13:01:18.350 Session Time: 5 ms
+2024-05-24 18:31:38: Ashok entering >> findProduct 2024-05-24 13:01:38.750Ashok is exiting >> findProduct at 2024-05-24 13:01:38.750 Session Time: 0 ms
+2024-05-24 18:31:44: Ashok entering >> addValue 2024-05-24 13:01:44.225Ashok is exiting >> addValue at 2024-05-24 13:01:44.225 Session Time: 7 ms
